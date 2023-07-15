@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ce93dfb8.css","mappings":"AAAA,EACE,QAAS,CACT,SACF,CACA,qBACE,eAEF,CCPA,KACE,UAAY,CACZ,sBACF","sources":["index.css","App.css"],"sourcesContent":["*{\n  margin: 0;\n  padding: 0;\n}\nhtml, body,#root, .App{\n  min-height: 100%;\n  \n}",".App{\n  color: white;\n  font-family: sans-serif;\n}"],"names":[],"sourceRoot":""}
